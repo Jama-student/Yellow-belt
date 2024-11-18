@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kata 6 - Array and lists/1.0.0": {
+        "runtime": {
+          "Kata 6 - Array and lists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kata 6 - Array and lists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

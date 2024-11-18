@@ -1,0 +1,15 @@
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\bin\Debug\net8.0\Kata 6 - Array and lists.exe
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\bin\Debug\net8.0\Kata 6 - Array and lists.deps.json
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\bin\Debug\net8.0\Kata 6 - Array and lists.runtimeconfig.json
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\bin\Debug\net8.0\Kata 6 - Array and lists.dll
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\bin\Debug\net8.0\Kata 6 - Array and lists.pdb
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\Kata 6 - Array and lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\Kata 6 - Array and lists.AssemblyInfoInputs.cache
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\Kata 6 - Array and lists.AssemblyInfo.cs
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\Kata 6 - Array and lists.csproj.CoreCompileInputs.cache
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\Kata 6 - Array and lists.sourcelink.json
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\Kata 6 - Array and lists.dll
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\refint\Kata 6 - Array and lists.dll
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\Kata 6 - Array and lists.pdb
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\Kata 6 - Array and lists.genruntimeconfig.cache
+C:\Users\jamaf\source\repos\Kata 6 - Array and lists\Kata 6 - Array and lists\obj\Debug\net8.0\ref\Kata 6 - Array and lists.dll
