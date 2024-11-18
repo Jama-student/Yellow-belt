@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata 9 - Object Instantiation with Additional Classes", "Kata 9 - Object Instantiation with Additional Classes\Kata 9 - Object Instantiation with Additional Classes.csproj", "{702C8CE7-0D29-420F-BDFD-E579BF45DDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702C8CE7-0D29-420F-BDFD-E579BF45DDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702C8CE7-0D29-420F-BDFD-E579BF45DDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702C8CE7-0D29-420F-BDFD-E579BF45DDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702C8CE7-0D29-420F-BDFD-E579BF45DDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {152812E3-D7A1-434E-9E12-F19003A1C6BE}
+	EndGlobalSection
+EndGlobal
