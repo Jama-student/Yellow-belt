@@ -1,0 +1,5 @@
+C:\Users\jamaf\source\repos\Mini-Kata 6-Array and List Practice\Mini-Kata 6-Array and List Practice\obj\Debug\net8.0\Mini-Kata 6-Array and List Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamaf\source\repos\Mini-Kata 6-Array and List Practice\Mini-Kata 6-Array and List Practice\obj\Debug\net8.0\Mini-Kata 6-Array and List Practice.AssemblyInfoInputs.cache
+C:\Users\jamaf\source\repos\Mini-Kata 6-Array and List Practice\Mini-Kata 6-Array and List Practice\obj\Debug\net8.0\Mini-Kata 6-Array and List Practice.AssemblyInfo.cs
+C:\Users\jamaf\source\repos\Mini-Kata 6-Array and List Practice\Mini-Kata 6-Array and List Practice\obj\Debug\net8.0\Mini-Kata 6-Array and List Practice.csproj.CoreCompileInputs.cache
+C:\Users\jamaf\source\repos\Mini-Kata 6-Array and List Practice\Mini-Kata 6-Array and List Practice\obj\Debug\net8.0\Mini-Kata 6-Array and List Practice.sourcelink.json
