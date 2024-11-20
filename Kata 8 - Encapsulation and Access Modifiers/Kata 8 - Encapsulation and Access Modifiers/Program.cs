@@ -4,16 +4,16 @@ using System;
 
 class Player
 {
-    // Private fields
+    
     private int health;
     private int level;
     private int experience;
 
-    // Public properties with encapsulation
+    
     public int Health
     {
-        get { return health; } // Allow external read access
-        private set // Restrict modification to within the class
+        get { return health; } 
+        private set 
         {
             if (value >= 0)
                 health = value;
@@ -44,7 +44,7 @@ class Player
         }
     }
 
-    // Constructor to initialize default values
+    
     public Player(string name)
     {
         Name = name;
@@ -55,7 +55,7 @@ class Player
 
     public string Name { get; set; }
 
-    // Method to gain experience and handle leveling up
+    
     public void GainExperience(int exp)
     {
         Console.WriteLine($"Player gains {exp} experience points.");
@@ -67,7 +67,7 @@ class Player
         }
     }
 
-    // Private method to handle leveling up
+    
     private void LevelUp()
     {
         Level++;
@@ -80,12 +80,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create a Player instance
+        
         Player player = new Player("Arin");
 
-        // Test gaining experience and leveling up
-        player.GainExperience(50); // Should not level up
-        player.GainExperience(60); // Should trigger level up
+    
+        player.GainExperience(50); 
+        player.GainExperience(60); 
 
     }
 }
