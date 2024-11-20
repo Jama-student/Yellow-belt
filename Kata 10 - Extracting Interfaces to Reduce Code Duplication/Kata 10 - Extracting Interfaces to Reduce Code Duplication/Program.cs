@@ -3,19 +3,19 @@
 using System;
 using System.Collections.Generic;
 
-// Interface for classes that can speak
+
 interface ISpeakable
 {
     void Speak();
 }
 
-// Interface for classes that can take damage
+
 interface IDamageable
 {
     void TakeDamage(int damage);
 }
 
-// Player class implementing ISpeakable and IDamageable
+
 class Player : ISpeakable, IDamageable
 {
     public string Name { get; set; }
@@ -46,7 +46,7 @@ class Player : ISpeakable, IDamageable
     }
 }
 
-// Enemy class implementing IDamageable
+
 class Enemy : IDamageable
 {
     public string Type { get; set; }
@@ -74,7 +74,7 @@ class Enemy : IDamageable
     }
 }
 
-// NPC class implementing ISpeakable
+
 class NPC : ISpeakable
 {
     public string Name { get; set; }
@@ -92,7 +92,7 @@ class NPC : ISpeakable
     }
 }
 
-// Merchant class implementing ISpeakable
+
 class Merchant : ISpeakable
 {
     public string Name { get; set; }
@@ -114,7 +114,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create instances
+        
         Player player = new Player("Arin", 100, 1);
         player.Attack("Goblin", 20);
 
