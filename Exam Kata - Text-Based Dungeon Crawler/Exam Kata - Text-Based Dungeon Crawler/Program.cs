@@ -145,19 +145,19 @@ class Game
 
     public static void Main(string[] args)
     {
-        // Initialize the player
+        
         Console.Write("Enter your name: ");
         string playerName = Console.ReadLine();
         Player player = new Player(playerName);
         player.Speak();
 
-        // Game loop
+        
         while (player.Health > 0)
         {
-            // Randomly decide what type of encounter the player has
-            int encounter = random.Next(1, 4); // 1 = Enemy, 2 = NPC, 3 = Merchant
+            
+            int encounter = random.Next(1, 4); 
 
-            if (encounter == 1) // Enemy encounter
+            if (encounter == 1) 
             {
                 Enemy enemy = new Enemy("Goblin", 30, 5);
                 Console.WriteLine($"\nA wild {enemy.Type} appears with {enemy.Health} health and {enemy.Damage} damage!");
@@ -196,12 +196,12 @@ class Game
                     player.GainExperience(30);
                 }
             }
-            else if (encounter == 2) // NPC encounter
+            else if (encounter == 2) 
             {
                 NPC npc = new NPC("Villager", "Welcome to our village!");
                 npc.Speak();
             }
-            else if (encounter == 3) // Merchant encounter
+            else if (encounter == 3) 
             {
                 Merchant merchant = new Merchant("Trader", new List<string> { "Sword", "Shield", "Potion" });
                 merchant.Speak();
