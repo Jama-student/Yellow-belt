@@ -87,19 +87,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Player instantiation and attack action
+        
         Player player = new Player("Arin", 100, 1);
         player.Attack("Goblin", 20);
 
-        // Enemy instantiation and taking damage
+        
         Enemy enemy = new Enemy("Goblin", 50, 10);
         enemy.TakeDamage(20);
 
-        // NPC instantiation and dialogue
+        
         NPC npc = new NPC("Villager", "Welcome to our village!");
         npc.Speak();
 
-        // Merchant instantiation and trading
+        
         Merchant merchant = new Merchant("Trader", new List<string> { "Sword", "Shield", "Potion" });
         merchant.Trade();
     }
